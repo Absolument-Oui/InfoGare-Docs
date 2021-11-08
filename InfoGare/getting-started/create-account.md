@@ -2,6 +2,5 @@
 
 ## Pour vous créer un compte :
 
-1: Rendez-vous sur [infogare.fr](https://www.infogare.fr)
-
-2: Cliquez sur ![Non connecté](/data/noconnected.png)
+1: Rendez-vous sur [infogare.fr](https://www.infogare.fr)  
+2: Cliquez sur "Non connecté" > "Se connecter" > "S'inscrire", et remplissez les informations demandez.
