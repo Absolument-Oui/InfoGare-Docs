@@ -10,13 +10,22 @@
 </head>
 <body>
   <div id="app"></div>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/emoji.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify-edit-on-github"></script>
   <script>
     window.$docsify = {
-      name: '',
-      repo: ''
+      name: 'InfoGare Docs',
+      repo: 'Absolument-Oui/InfoGare-Docs',
+      loadSidebar: 'sidebar.md',
+      basePath: '/InfoGare/',
+      formatUpdated: '{DD}/{MM}/{YYYY} à {HH}:{mm}',
+      plugins: [
+        EditOnGithubPlugin.create('https://github.com/Absolument-Oui/InfoGare-Docs/blob/master/InfoGare/', null, 'Edit on Github')
+      ]
     }
   </script>
   <!-- Docsify v4 -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+  <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-javascript.min.js"></script>
 </body>
 </html>
