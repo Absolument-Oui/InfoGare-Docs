@@ -1,4 +1,4 @@
-* [Introduction](/)
+* [Sommaire](/)
 
 * [Bien démarrer](/getting-started/signin-to-portal)
   * [S'inscrire sur le portail](/getting-started/signin-to-portal)
