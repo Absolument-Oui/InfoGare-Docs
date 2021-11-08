@@ -4,7 +4,7 @@
 
 Voici le sommaire de cette documentation : 
 
-  * [Introduction (cette page)](/)
+  * [Introduction](/)
 
   * Démarrrer
     * [S'inscrire sur le portail](/getting-started/signin-to-portal)
