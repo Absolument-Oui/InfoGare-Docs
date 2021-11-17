@@ -5,4 +5,5 @@
 Voici le sommaire de cette documentation : 
 
   * Bien démarrer
-    * [S'inscrire sur InfoGare](/getting-started/signin-to-portal)
+    * [Créer un compte](/getting-started/create-account)
+    * [Créer une gare](/getting-started/create-gare)
