@@ -7,7 +7,7 @@ Avant de commencer, vous devez avoir effectué les étapes suivantes :
 
 ## Se rendre sur la page des gares
 
-Appuyez sur votre nom d'utilisateur en haut à droite de la page, puis appuyez sur *Mes gares*
+Appuyez sur votre nom d'utilisateur en haut à droite de la page, puis appuyez sur *Mes gares*.
 
 ![Mes gares](../assets/images/create-gare-1.png)
 
@@ -26,3 +26,9 @@ Appuyez sur votre nom d'utilisateur en haut à droite de la page, puis appuyez s
     - Le temps d'attente avant le masquage du train
 
 ![Forumlaire de création d'une gare](../assets/images/create-gare-3.png)
+
+3. Une fois le formulaire rempli, appuyez sur *Créer* pour valider les informations et créer la gare.
+
+4. Une fois la gare créée, la page va se recharger automatiquement et vous devrez voir votre gare apparâitre dans la liste. SI ce n'est pas le cas, veuillez vous référer au [référentiel des erreurs](/reference/errors/gare).
+
+![Gare](../assets/images/create-gare-4.png)
