@@ -4,8 +4,8 @@
 
 Avant de commencer, vous devez avoir effectué les étapes suivantes :
 
-* [Créer un compte](/getting-started/create-account)
-* [Créer une gare](/getting-started/create-gare)
+* [Créer un compte](create-account)
+* [Créer une gare](create-gare)
 
 ## Créer un train
 

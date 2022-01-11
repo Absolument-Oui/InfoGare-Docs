@@ -4,7 +4,7 @@
 
 Avant de commencer, vous devez avoir effectué les étapes suivantes :
 
-* [Créer un compte](/getting-started/create-account)
+* [Créer un compte](create-account)
 
 ## Créer une gare
 
@@ -28,10 +28,10 @@ Avant de commencer, vous devez avoir effectué les étapes suivantes :
 
 4. Une fois le formulaire rempli, appuyez sur *Créer* pour valider les informations et créer la gare.
 
-5. Une fois la gare créée, la page va se recharger automatiquement et vous devrez voir votre gare apparâitre dans la liste. Si ce n'est pas le cas, veuillez vous référer au [référentiel des erreurs](/reference/errors/gare).
+5. Une fois la gare créée, la page va se recharger automatiquement et vous devrez voir votre gare apparaître dans la liste.
 
 ![Gare](../assets/images/create-gare-4.png)
 
 <br>
 
-[Créer une un train >](/getting-started/create-train)
+[Créer une un train >](create-train)

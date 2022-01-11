@@ -19,4 +19,4 @@
 
 <br>
 
-[Créer une gare >](/getting-started/create-gare)
+[Créer une gare >](create-gare)
