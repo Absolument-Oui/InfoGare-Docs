@@ -24,13 +24,13 @@ Avant de commencer, vous devez avoir effectué les étapes suivantes :
     - Le temps d'attente avant l'affichage du train
     - Le temps d'attente avant le masquage du train
 
-![Forumlaire de création d'une gare](../assets/images/create-gare-3.png)
+![Forumlaire de création d'une gare](./assets/images/create-gare-3.png)
 
 4. Une fois le formulaire rempli, appuyez sur *Créer* pour valider les informations et créer la gare.
 
 5. Une fois la gare créée, la page va se recharger automatiquement et vous devrez voir votre gare apparaître dans la liste.
 
-![Gare](../assets/images/create-gare-4.png)
+![Gare](./assets/images/create-gare-4.png)
 
 <br>
 
