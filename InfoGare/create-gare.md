@@ -10,11 +10,11 @@ Avant de commencer, vous devez avoir effectué les étapes suivantes :
 
 1. Appuyez sur votre nom d'utilisateur en haut à droite de la page, puis appuyez sur *Mes gares*.
 
-![Mes gares](../assets/images/create-gare-1.png)
+![Mes gares](./assets/images/create-gare-1.png)
 
 2. Appuyez sur le bouton *Créer une gare* en haut à gauche du cadre.
 
-![Créer une gare](../assets/images/create-gare-2.png)
+![Créer une gare](./assets/images/create-gare-2.png)
 
 3. Un formulaire s'affiche vous demandant plusieurs informations : 
     - Le nom de la gare
