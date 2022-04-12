@@ -17,6 +17,6 @@ Avant de commencer, vous devez avoir effectué les étapes suivantes :
 
 ![Mes gares](./assets/images/create-train-1.png)
 
-3. Enfin, remplissez ensuite les informations sur le train en clquant sur chaque flèches, puis cliquez sur "Créer"
+3. Enfin, remplissez ensuite les informations de chaque catégories en cliquant sur chaque flèches, puis validez cliquez sur "Créer"
 
 ![Mes gares](./assets/images/create-train-2.png)
