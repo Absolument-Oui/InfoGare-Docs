@@ -12,7 +12,7 @@ Avant de commencer, vous devez avoir effectué les étapes suivantes :
 
 ![Mes gares](./assets/images/create-gare-1.png)
 
-2. Appuyez sur le bouton *Créer une gare* en haut à gauche du cadre.
+2. Appuyez sur le bouton *Nouvelle gare* en haut à gauche du cadre.
 
 ![Créer une gare](./assets/images/create-gare-2.png)
 
