@@ -34,4 +34,4 @@ Avant de commencer, vous devez avoir effectué les étapes suivantes :
 
 <br>
 
-[Créer une un train >](create-train)
+[< Créer un compte](create-account) | [Créer une un train >](create-train)
