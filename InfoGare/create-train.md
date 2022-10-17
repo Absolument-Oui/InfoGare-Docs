@@ -1,22 +1,26 @@
-# Créer une gare
+# Créer un train
 
 ## Avant de commencer : 
 
 Avant de commencer, vous devez avoir effectué les étapes suivantes :
 
-* [Créer un compte](create-account)
-* [Créer une gare](create-gare)
+* [Créer un compte](create-account#s39inscrire-sur-infogare)
+* [Créer une gare](create-gare#créer-une-gare)
 
 ## Créer un train
 
-1. Appuyez sur votre nom d'utilisateur en haut à droite de la page, puis appuyez sur *Mes gares*.
+1. Appuyez sur le bouton *Afficher* de votre gare pour afficher la liste des trains.
 
-![Mes gares](./assets/images/create-gare-1.png)
+![Affichage de la gare](./assets/images/create-train/create-train-1.png)
 
-2. Ensuite, rendez-vous dans la gare souhaité, puis cliquez sur *Nouveau Train*, une pop-up s'affiche
+2. Une page vide apparaît. Appuyez sur le bouton en forme de *plus* en dessous du nom de votre gare.
 
-![Mes gares](./assets/images/create-train-1.png)
+![Page de gare](./assets/images/create-train/create-train-2.png)
 
-3. Enfin, remplissez ensuite les informations de chaque catégories en cliquant sur chaque flèches, puis validez cliquez sur "Créer"
+3. Un formulaire apparaît. Remplissez les informations du train, puis validez avec le bouton *Créer* en bas de ce dernier.
 
-![Mes gares](./assets/images/create-train-2.png)
+![Formulaire de création de train](./assets/images/create-train/create-train-3.png)
+
+4. La page va se recharger et afficher votre train.
+
+![Train](./assets/images/create-train/create-train-4.png)
