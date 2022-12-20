@@ -10,6 +10,8 @@ Voici le sommaire de cette documentation :
   * [Créer un train](create-train)
 
 * Contribuer
-  * [Contribuer au site](contribute-infogare)
+  * Contribuer à InfoGare
+    * [Bien démarrer](contribute-getting-started)
+    * [Règles de contribution](contribution-rules)
   * [Contribuer à la documentation](contribute-documentation)
   
